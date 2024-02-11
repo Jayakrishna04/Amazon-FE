@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Amazon-FE/static/css/main.ba305294.css",
+    "main.js": "/Amazon-FE/static/js/main.bed86c2b.js",
+    "index.html": "/Amazon-FE/index.html",
+    "main.ba305294.css.map": "/Amazon-FE/static/css/main.ba305294.css.map",
+    "main.bed86c2b.js.map": "/Amazon-FE/static/js/main.bed86c2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba305294.css",
+    "static/js/main.bed86c2b.js"
+  ]
+}
